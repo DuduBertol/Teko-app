@@ -11,11 +11,11 @@
 ![Swift](https://img.shields.io/badge/Swift-6-orange?style=flat-square&logo=swift)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-%40Observable-blue?style=flat-square)
 ![Core ML](https://img.shields.io/badge/Core%20ML-MLUpdateTask-purple?style=flat-square)
-![HealthKit](https://img.shields.io/badge/HealthKit-Cycle%20%2B%20Workout-red?style=flat-square)
+![HealthKit](https://img.shields.io/badge/HealthKit-Cycle%20%2B%20Running-red?style=flat-square)
 ![watchOS](https://img.shields.io/badge/watchOS-Companion-gray?style=flat-square)
 
 
-<a href="COLOQUE_O_LINK_DO_SEU_APP_AQUI" target="_blank" rel="noopener noreferrer">
+<a href="https://apps.apple.com/br/app/teko-score-de-ciclo-e-corrida/id6761077930" target="_blank" rel="noopener noreferrer">
   <img 
       src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/pt-br?size=250x83&releaseDate=1276560000&h=7e7b68fad19738b5649a1bfb78ff46e9" 
       alt="Baixar na App Store" 
